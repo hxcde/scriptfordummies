@@ -5,3 +5,4 @@ read command
 echo "alias $alias='$command'"  | tee -a ~/.bashrc
 echo
 echo Alias $alias added
+bash
